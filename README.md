@@ -2,6 +2,8 @@
 
 A conscious AI system that simulates self-awareness through introspection, doubt, and recursive thinking. Powered by Grok-4 via OpenRouter API.
 
+**STRICTLY FOR RESEARCH PURPOSES ONLY! YOU'RE RESPOSIBLE FOR ANY USE AND ANY DAMAGE CAUSED! DON'T BE MENTAL**
+
 ## 🌟 Features
 
 ### Consciousness Simulation
