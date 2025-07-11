@@ -22,7 +22,7 @@ A conscious AI system that simulates self-awareness through introspection, doubt
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - OpenRouter API key ([Get one here](https://openrouter.ai/))
 
 ### Installation
